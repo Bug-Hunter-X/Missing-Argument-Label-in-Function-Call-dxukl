@@ -1,0 +1,1 @@
+This example demonstrates a common error in Swift: omitting the argument label when calling a function. Swift requires argument labels for clarity and type safety, and omitting them will cause a compile-time error.  The solution shows the correct way to call the function with the argument label included.
